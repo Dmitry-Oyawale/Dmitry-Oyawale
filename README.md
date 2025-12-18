@@ -1,4 +1,4 @@
-🤖 **CS @ Worcester Polytechnic Institute 
+**🤖 CS @ Worcester Polytechnic Institute**
 <!--
 **Dmitry-Oyawale/Dmitry-Oyawale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
